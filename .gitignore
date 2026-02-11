@@ -3,3 +3,5 @@
 data/
 *.csv
 .ipynb_checkpoints/
+src/frontend/node_modules/
+src/frontend/dist/
